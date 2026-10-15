@@ -1,2 +1,5 @@
 DATAVIZ_EXERCISES_2026
 
+Week 2 - 7/10/2026
+
+week 3 - 14/10/2026
