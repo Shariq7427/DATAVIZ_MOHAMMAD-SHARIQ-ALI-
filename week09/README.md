@@ -31,7 +31,7 @@ Save it as `data/world_happiness_2023.csv`.
 # from inside the week09 folder
 python -m pip install --upgrade pip
 pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run app.py
 ```
 The app opens at http://localhost:8501. Press `Ctrl + C` in the terminal to stop it.
 
